@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React is hard but useful
+          Epstein didn't kill himself
         </a>
       </header>
     </div>
